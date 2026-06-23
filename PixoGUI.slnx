@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PixoGUI-Cwebp/PixoGUI.csproj" />
+  <Project Path="PixoGUI_Run/PixoGUI_Run.csproj" Id="77b447d3-c24e-4034-a5ce-5eb33404fc81" />
+</Solution>
